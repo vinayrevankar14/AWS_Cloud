@@ -16,8 +16,8 @@ Users can access to the cloud services either by browser or through an app, conn
 
 * **Software-as-a-Service(SaaS):** Here users don't need to install application on their machine, SaaS provides application hosted on cloud where users access them over the internet. SaaS is like renting the house, where landlord maintains the house, but tenant mostly gets to use it as if they owned it.
 * **Platform-as-a-Service(PaaS):** PaaS vendors offer everything necessary for building application, includes development tools, infrastructure, and operating system, over the internet. It can be compared as renting tools.
-* **Infrastructure-as-a-tool:** Here company rents the servers and storage they need from a cloud provider. Iaas is like a company leasing the plot of land where they can build whatever they want, but need to provide their own building equipments and materials.
-* **Function-as-a-Service:** Faas also known as serverless computing, breaks cloud application down even in smaller components that only run when needed. They are so called "serverless" as they don't run on  dedicated machines and so the companies don't have to manage any servers.
+* **Infrastructure-as-a-tool(IaaS):** Here company rents the servers and storage they need from a cloud provider. Iaas is like a company leasing the plot of land where they can build whatever they want, but need to provide their own building equipments and materials.
+* **Function-as-a-Service(FaaS):** Faas also known as serverless computing, breaks cloud application down even in smaller components that only run when needed. They are so called "serverless" as they don't run on  dedicated machines and so the companies don't have to manage any servers.
 ##### As above model discussed there are different types of cloud deployment
 ## Different types of Cloud deployment
 1. **Private Cloud:** It is a server, data center, or distributed network wholly dedicated to one organization.
